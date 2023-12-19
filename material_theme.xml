@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="accentColor" value="f9826c" />
+    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="userId" value="-731bcfca:18c6c8e70e8:-8000" />
+    <option name="version" value="8.12.6" />
+  </component>
+</application>

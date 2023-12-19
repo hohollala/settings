@@ -1,0 +1,18 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="Console.SplitLine" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="RiderUnitTestRunSolutionTwAction" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
+  <action id="Terminal.ClearBuffer" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+  </action>
+</keymap>

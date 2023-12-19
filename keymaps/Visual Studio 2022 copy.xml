@@ -1,0 +1,11 @@
+<keymap version="1" name="Visual Studio 2022 copy" parent="Visual Studio 2022">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+</keymap>
