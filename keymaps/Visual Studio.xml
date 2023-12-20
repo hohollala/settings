@@ -6,6 +6,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt i" />
     <keyboard-shortcut first-keystroke="alt f8" />
   </action>
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="shift ctrl f8" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
