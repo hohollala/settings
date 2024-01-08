@@ -1,10 +1,11 @@
-<scheme name="_@user_Visual Studio Light" version="142" parent_scheme="Visual Studio Light">
+<scheme name="_@user_Visual Studio Light" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="created">2023-10-19T14:20:47</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-19T14:27:13</property>
+    <property name="modified">2024-01-08T10:31:38</property>
     <property name="originalScheme">Visual Studio Light</property>
+    <property name="partialSave">true</property>
     <property name="pluginId">Rider UI Theme Pack</property>
   </metaInfo>
   <colors>
@@ -30,11 +31,4 @@
     <option name="FILESTATUS_changelistConflict" value="fc9867" />
     <option name="FILESTATUS_modifiedOutside" value="c792ea" />
   </colors>
-  <attributes>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="dbe0cc" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
