@@ -1,8 +1,8 @@
 <application>
-  <component name="LafManager">
+  <component name="LafManager" autodetect="false">
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="GITHUB_DARK" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Custom Theme (Material)" scheme="_@user_Darcula" />
-      <laf-to-scheme laf="Darcula" scheme="_@user_GitHub Dark (Material)" />
       <laf-to-scheme laf="GitHub Dark (Material)" scheme="_@user_GitHub Dark (Material)" />
       <laf-to-scheme laf="High contrast" scheme="_@user_High contrast" />
       <laf-to-scheme laf="Material Darker" scheme="_@user_High contrast" />
