@@ -39,6 +39,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl s" />
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="SelectIn" />
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
@@ -47,4 +48,7 @@
   <action id="Tree-startEditing" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="com.jetbrains.rider.plugins.unity.actions.ShowFileInUnityAction">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
 </keymap>
