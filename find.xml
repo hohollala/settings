@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="솔루션" />
-    <option name="defaultScopeName" value="솔루션" />
-    <option name="SEARCH_SCOPE" value="솔루션" />
+    <option name="customScope" value="프로젝트 'Assembly-CSharp'" />
+    <option name="defaultScopeName" value="프로젝트 'Assembly-CSharp'" />
+    <option name="SEARCH_SCOPE" value="프로젝트 'Assembly-CSharp'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
