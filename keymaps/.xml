@@ -21,6 +21,9 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
@@ -38,6 +41,12 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="RiderUnitTestTreeTextFilterAction">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
     <keyboard-shortcut first-keystroke="f6" />
@@ -46,6 +55,9 @@
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f8" />
+  </action>
+  <action id="SpeedSearch">
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="Table-startEditing" />
   <action id="Tree-startEditing" />
