@@ -1,15 +1,16 @@
 <application>
   <component name="LafManager">
-    <laf themeId="RiderMelonNight" />
+    <laf themeId="4f556d32-83cb-4b8b-9932-c4eccc4ce3af" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Custom Theme (Material)" scheme="_@user_Darcula" />
       <laf-to-scheme laf="Darcula" scheme="_@user_GitHub Dark (Material)" />
       <laf-to-scheme laf="GitHub Dark (Material)" scheme="_@user_GitHub Dark (Material)" />
-      <laf-to-scheme laf="HiberbeeDark" scheme="_@user_Rider Melon Dark" />
+      <laf-to-scheme laf="HiberbeeDark" scheme="_@user_Dark" />
       <laf-to-scheme laf="High contrast" scheme="_@user_High contrast" />
       <laf-to-scheme laf="Material Darker" scheme="_@user_High contrast" />
       <laf-to-scheme laf="Material Oceanic" scheme="_@user_Material Oceanic" />
       <laf-to-scheme laf="Material Palenight" scheme="_@user_High contrast" />
+      <laf-to-scheme laf="RiderMelonNight" scheme="_@user_Dark" />
       <laf-to-scheme laf="RiderNight" scheme="_@user_Dark" />
     </lafs-to-previous-schemes>
   </component>
